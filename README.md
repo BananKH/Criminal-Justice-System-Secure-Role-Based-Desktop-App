@@ -41,7 +41,7 @@ A Windows Forms-based desktop application built in C# with a MySQL backend, desi
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/criminal-justice-system.git](https://github.com/BananKH/Criminal-Justice-System-Secure-Role-Based-Desktop-App.git)
+   git clone [Criminal Justice System](https://github.com/BananKH/Criminal-Justice-System-Secure-Role-Based-Desktop-App.git)
    ```
 2. Set your MySQL connection string in App.config under ConString and ConAdmin.
 3. Run the project in Visual Studio.
