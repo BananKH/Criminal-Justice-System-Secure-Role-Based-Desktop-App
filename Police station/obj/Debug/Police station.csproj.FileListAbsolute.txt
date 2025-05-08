@@ -1,0 +1,139 @@
+C:\Users\96279\Source\Repos\BananKH\criminal-justice-system\Police station\bin\Debug\Police station.exe
+C:\Users\96279\Source\Repos\BananKH\criminal-justice-system\Police station\bin\Debug\MySql.Data.dll
+C:\Users\96279\Source\Repos\BananKH\criminal-justice-system\Police station\bin\Debug\Police station.exe.config
+C:\Users\96279\Source\Repos\BananKH\criminal-justice-system\Police station\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\96279\Source\Repos\BananKH\criminal-justice-system\Police station\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\96279\Source\Repos\BananKH\criminal-justice-system\Police station\bin\Debug\Google.Protobuf.dll
+C:\Users\96279\Source\Repos\BananKH\criminal-justice-system\Police station\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\96279\Source\Repos\BananKH\criminal-justice-system\Police station\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\96279\Source\Repos\BananKH\criminal-justice-system\Police station\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\96279\Source\Repos\BananKH\criminal-justice-system\Police station\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\96279\Source\Repos\BananKH\criminal-justice-system\Police station\bin\Debug\System.Buffers.dll
+C:\Users\96279\Source\Repos\BananKH\criminal-justice-system\Police station\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\96279\Source\Repos\BananKH\criminal-justice-system\Police station\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\96279\Source\Repos\BananKH\criminal-justice-system\Police station\bin\Debug\System.IO.Pipelines.dll
+C:\Users\96279\Source\Repos\BananKH\criminal-justice-system\Police station\bin\Debug\System.Memory.dll
+C:\Users\96279\Source\Repos\BananKH\criminal-justice-system\Police station\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\96279\Source\Repos\BananKH\criminal-justice-system\Police station\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\96279\Source\Repos\BananKH\criminal-justice-system\Police station\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\96279\Source\Repos\BananKH\criminal-justice-system\Police station\bin\Debug\ZstdSharp.dll
+C:\Users\96279\Source\Repos\BananKH\criminal-justice-system\Police station\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\96279\Source\Repos\BananKH\criminal-justice-system\Police station\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\96279\Source\Repos\BananKH\criminal-justice-system\Police station\bin\Debug\Google.Protobuf.pdb
+C:\Users\96279\Source\Repos\BananKH\criminal-justice-system\Police station\bin\Debug\Google.Protobuf.xml
+C:\Users\96279\Source\Repos\BananKH\criminal-justice-system\Police station\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\96279\Source\Repos\BananKH\criminal-justice-system\Police station\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\96279\Source\Repos\BananKH\criminal-justice-system\Police station\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\96279\Source\Repos\BananKH\criminal-justice-system\Police station\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\96279\Source\Repos\BananKH\criminal-justice-system\Police station\bin\Debug\MySql.Data.xml
+C:\Users\96279\Source\Repos\BananKH\criminal-justice-system\Police station\bin\Debug\System.Buffers.xml
+C:\Users\96279\Source\Repos\BananKH\criminal-justice-system\Police station\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\96279\Source\Repos\BananKH\criminal-justice-system\Police station\bin\Debug\System.IO.Pipelines.xml
+C:\Users\96279\Source\Repos\BananKH\criminal-justice-system\Police station\bin\Debug\System.Memory.xml
+C:\Users\96279\Source\Repos\BananKH\criminal-justice-system\Police station\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\96279\Source\Repos\BananKH\criminal-justice-system\Police station\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\96279\Source\Repos\BananKH\criminal-justice-system\Police station\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\96279\Source\Repos\BananKH\criminal-justice-system\Police station\obj\Debug\Police station.csproj.AssemblyReference.cache
+C:\Users\96279\Source\Repos\BananKH\criminal-justice-system\Police station\obj\Debug\Police station.csproj.SuggestedBindingRedirects.cache
+C:\Users\96279\Source\Repos\BananKH\criminal-justice-system\Police station\obj\Debug\Police_station.Dashboard.resources
+C:\Users\96279\Source\Repos\BananKH\criminal-justice-system\Police station\obj\Debug\Police_station.Login.resources
+C:\Users\96279\Source\Repos\BananKH\criminal-justice-system\Police station\obj\Debug\Police_station.Properties.Resources.resources
+C:\Users\96279\Source\Repos\BananKH\criminal-justice-system\Police station\obj\Debug\Police_station.Welcome.resources
+C:\Users\96279\Source\Repos\BananKH\criminal-justice-system\Police station\obj\Debug\Police station.csproj.GenerateResource.cache
+C:\Users\96279\Source\Repos\BananKH\criminal-justice-system\Police station\obj\Debug\Police station.csproj.CoreCompileInputs.cache
+C:\Users\96279\Source\Repos\BananKH\criminal-justice-system\Police station\obj\Debug\Police station.csproj.CopyComplete
+C:\Users\96279\Source\Repos\BananKH\criminal-justice-system\Police station\obj\Debug\Police station.exe
+C:\Users\96279\Source\Repos\BananKH\criminal-justice-system\Police station\obj\Debug\Police station.pdb
+C:\Users\96279\Source\Repos\BananKH\criminal-justice-system\Police station\bin\Debug\Police station.pdb
+C:\Users\96279\Source\Repos\BananKH\criminal-justice-system\Police station\obj\Debug\Police_station.Polices.resources
+C:\Users\96279\Source\Repos\BananKH\criminal-justice-system\Police station\obj\Debug\Police_station.resetPas.resources
+C:\Users\96279\Source\Repos\BananKH\criminal-justice-system\Police station\bin\Debug\Guna.UI.dll
+C:\Users\96279\source\repos\BananKH\criminal-justice-system\Police station\obj\Debug\Police_station.cases.resources
+C:\Users\96279\source\repos\BananKH\criminal-justice-system\Police station\obj\Debug\Police_station.criminal.resources
+C:\Users\96279\source\repos\BananKH\criminal-justice-system\Police station\obj\Debug\Police_station.forensics.resources
+C:\Users\96279\source\repos\BananKH\criminal-justice-system\Police station\bin\Debug\Newtonsoft.Json.dll
+C:\Users\96279\source\repos\BananKH\criminal-justice-system\Police station\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HP\Desktop\Police station\bin\Debug\Police station.exe.config
+C:\Users\HP\Desktop\Police station\bin\Debug\Police station.exe
+C:\Users\HP\Desktop\Police station\bin\Debug\Police station.pdb
+C:\Users\HP\Desktop\Police station\bin\Debug\System.Buffers.dll
+C:\Users\HP\Desktop\Police station\bin\Debug\System.Memory.dll
+C:\Users\HP\Desktop\Police station\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HP\Desktop\Police station\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Desktop\Police station\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Desktop\Police station\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\HP\Desktop\Police station\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\HP\Desktop\Police station\bin\Debug\Google.Protobuf.pdb
+C:\Users\HP\Desktop\Police station\bin\Debug\Google.Protobuf.xml
+C:\Users\HP\Desktop\Police station\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\HP\Desktop\Police station\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\HP\Desktop\Police station\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\HP\Desktop\Police station\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\HP\Desktop\Police station\bin\Debug\MySql.Data.xml
+C:\Users\HP\Desktop\Police station\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HP\Desktop\Police station\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\HP\Desktop\Police station\bin\Debug\System.IO.Pipelines.xml
+C:\Users\HP\Desktop\Police station\obj\Debug\Police station.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Police station\obj\Debug\Police_station.cases.resources
+C:\Users\HP\Desktop\Police station\obj\Debug\Police_station.criminal.resources
+C:\Users\HP\Desktop\Police station\obj\Debug\Police_station.dashboard.resources
+C:\Users\HP\Desktop\Police station\obj\Debug\Police_station.forensics.resources
+C:\Users\HP\Desktop\Police station\obj\Debug\Police_station.Login.resources
+C:\Users\HP\Desktop\Police station\obj\Debug\Police_station.Polices.resources
+C:\Users\HP\Desktop\Police station\obj\Debug\Police_station.Properties.Resources.resources
+C:\Users\HP\Desktop\Police station\obj\Debug\Police_station.resetPas.resources
+C:\Users\HP\Desktop\Police station\obj\Debug\Police_station.Welcome.resources
+C:\Users\HP\Desktop\Police station\obj\Debug\Police station.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Police station\obj\Debug\Police station.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Police station\obj\Debug\Police s.618757BC.Up2Date
+C:\Users\HP\Desktop\Police station\obj\Debug\Police station.exe
+C:\Users\HP\Desktop\Police station\obj\Debug\Police station.pdb
+C:\Users\96279\Desktop\Subjects\Software Security\Police station\Police station\obj\Debug\Police station.csproj.AssemblyReference.cache
+C:\Users\96279\Desktop\Subjects\Software Security\Police station\Police station\obj\Debug\Police station.csproj.SuggestedBindingRedirects.cache
+C:\Users\96279\Desktop\Subjects\Software Security\Police station\Police station\obj\Debug\Police_station.cases.resources
+C:\Users\96279\Desktop\Subjects\Software Security\Police station\Police station\obj\Debug\Police_station.criminal.resources
+C:\Users\96279\Desktop\Subjects\Software Security\Police station\Police station\obj\Debug\Police_station.dashboard.resources
+C:\Users\96279\Desktop\Subjects\Software Security\Police station\Police station\obj\Debug\Police_station.forensics.resources
+C:\Users\96279\Desktop\Subjects\Software Security\Police station\Police station\obj\Debug\Police_station.Login.resources
+C:\Users\96279\Desktop\Subjects\Software Security\Police station\Police station\obj\Debug\Police_station.Polices.resources
+C:\Users\96279\Desktop\Subjects\Software Security\Police station\Police station\obj\Debug\Police_station.Properties.Resources.resources
+C:\Users\96279\Desktop\Subjects\Software Security\Police station\Police station\obj\Debug\Police_station.resetPas.resources
+C:\Users\96279\Desktop\Subjects\Software Security\Police station\Police station\obj\Debug\Police_station.Welcome.resources
+C:\Users\96279\Desktop\Subjects\Software Security\Police station\Police station\obj\Debug\Police station.csproj.GenerateResource.cache
+C:\Users\96279\Desktop\Subjects\Software Security\Police station\Police station\obj\Debug\Police station.csproj.CoreCompileInputs.cache
+C:\Users\96279\Desktop\Subjects\Software Security\Police station\Police station\obj\Debug\Police station.exe
+C:\Users\96279\Desktop\Subjects\Software Security\Police station\Police station\obj\Debug\Police station.pdb
+C:\Users\96279\Desktop\Subjects\Software Security\Police station\Police station\bin\Debug\Police station.exe.config
+C:\Users\96279\Desktop\Subjects\Software Security\Police station\Police station\bin\Debug\Police station.exe
+C:\Users\96279\Desktop\Subjects\Software Security\Police station\Police station\bin\Debug\Police station.pdb
+C:\Users\96279\Desktop\Subjects\Software Security\Police station\Police station\bin\Debug\Guna.UI.dll
+C:\Users\96279\Desktop\Subjects\Software Security\Police station\Police station\bin\Debug\System.Buffers.dll
+C:\Users\96279\Desktop\Subjects\Software Security\Police station\Police station\bin\Debug\System.Memory.dll
+C:\Users\96279\Desktop\Subjects\Software Security\Police station\Police station\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\96279\Desktop\Subjects\Software Security\Police station\Police station\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\96279\Desktop\Subjects\Software Security\Police station\Police station\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\96279\Desktop\Subjects\Software Security\Police station\Police station\obj\Debug\Police station.csproj.CopyComplete
+C:\Users\HP\Desktop\ThirdYear 2nd sem\Police station - Copy\Police station\bin\Debug\Police station.exe.config
+C:\Users\HP\Desktop\ThirdYear 2nd sem\Police station - Copy\Police station\bin\Debug\Police station.exe
+C:\Users\HP\Desktop\ThirdYear 2nd sem\Police station - Copy\Police station\bin\Debug\Police station.pdb
+C:\Users\HP\Desktop\ThirdYear 2nd sem\Police station - Copy\Police station\bin\Debug\System.Buffers.dll
+C:\Users\HP\Desktop\ThirdYear 2nd sem\Police station - Copy\Police station\bin\Debug\System.Memory.dll
+C:\Users\HP\Desktop\ThirdYear 2nd sem\Police station - Copy\Police station\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HP\Desktop\ThirdYear 2nd sem\Police station - Copy\Police station\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HP\Desktop\ThirdYear 2nd sem\Police station - Copy\Police station\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\HP\Desktop\ThirdYear 2nd sem\Police station - Copy\Police station\obj\Debug\Police station.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\ThirdYear 2nd sem\Police station - Copy\Police station\obj\Debug\Police_station.cases.resources
+C:\Users\HP\Desktop\ThirdYear 2nd sem\Police station - Copy\Police station\obj\Debug\Police_station.criminal.resources
+C:\Users\HP\Desktop\ThirdYear 2nd sem\Police station - Copy\Police station\obj\Debug\Police_station.dashboard.resources
+C:\Users\HP\Desktop\ThirdYear 2nd sem\Police station - Copy\Police station\obj\Debug\Police_station.forensics.resources
+C:\Users\HP\Desktop\ThirdYear 2nd sem\Police station - Copy\Police station\obj\Debug\Police_station.Login.resources
+C:\Users\HP\Desktop\ThirdYear 2nd sem\Police station - Copy\Police station\obj\Debug\Police_station.Polices.resources
+C:\Users\HP\Desktop\ThirdYear 2nd sem\Police station - Copy\Police station\obj\Debug\Police_station.Properties.Resources.resources
+C:\Users\HP\Desktop\ThirdYear 2nd sem\Police station - Copy\Police station\obj\Debug\Police_station.resetPas.resources
+C:\Users\HP\Desktop\ThirdYear 2nd sem\Police station - Copy\Police station\obj\Debug\Police_station.Start.resources
+C:\Users\HP\Desktop\ThirdYear 2nd sem\Police station - Copy\Police station\obj\Debug\Police_station.Welcome.resources
+C:\Users\HP\Desktop\ThirdYear 2nd sem\Police station - Copy\Police station\obj\Debug\Police station.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\ThirdYear 2nd sem\Police station - Copy\Police station\obj\Debug\Police station.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ThirdYear 2nd sem\Police station - Copy\Police station\obj\Debug\Police s.618757BC.Up2Date
+C:\Users\HP\Desktop\ThirdYear 2nd sem\Police station - Copy\Police station\obj\Debug\Police station.exe
+C:\Users\HP\Desktop\ThirdYear 2nd sem\Police station - Copy\Police station\obj\Debug\Police station.pdb
